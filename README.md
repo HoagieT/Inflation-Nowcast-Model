@@ -14,6 +14,6 @@ Download the code as a ZIP file by clicking the green 'Clone or download' button
 
 * `DiscreteKalmanFilter.py` : Discrete Kalman Filter algorithm which is applied to estimate parameters in Dynamic Factor Model as well as dealing with unbalanced dataset
 * `DynamicFactorModel.py` : Dynamic Factor Model module, which is the main body of nowcasting algorithm
-* `Functions.py` : Miscellaneous functionos
+* `Functions.py` : Miscellaneous functions
 * `Vintage_PPI.py` : Vintage generator for PPI related data, Wind API required
-* `Nowcast_PPI.py` : To nowcast PPI, Vintage_PPI.py must be run first.
+* `Nowcast_PPI.py` : To nowcast PPI, Vintage_PPI.py must be run first
